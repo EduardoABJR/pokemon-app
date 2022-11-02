@@ -9,6 +9,7 @@ cd dist
 git init
 git add -A
 git commint -m 'New Deployment'
-git push -f https://github.com/EduardoABJR/pokemon-app.git
+git push -f https://github.com/EduardoABJR/pokemon-app.git master:gh-pages
 
 cd -
+gi
